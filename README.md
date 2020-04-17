@@ -4,4 +4,18 @@ Hi, I am [@ashtom](https://github.com/ashtom). I work at GitHub as Vice Presiden
 
 ## Recent Projects
 
+* [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
+* [npm is joining GitHub](https://github.blog/2020-03-16-npm-is-joining-github/)
+* [GitHub Archive Program](https://archiveprogram.github.com)
+* [Welcoming Semmle to GitHub](https://github.blog/2019-09-18-github-welcomes-semmle/)
+* [GitHub acquires Pull Panda](https://github.blog/2019-06-17-github-acquires-pull-panda/)
+* [Dependabot is joining GitHub](https://dependabot.com/blog/hello-github/)
 
+## Recent Blog Post
+
+* [Accessibility Insights for Android is here](https://cloudblogs.microsoft.com/opensource/2020/03/10/accessibility-insights-android-now-available/)
+
+## In the News
+
+* [Microsoft storing world’s open source GitHub code in Norwegian archive vault for the next millennium](http://news.com.au/technology/science/archaeology/mi…)
+* [World’s most essential open-source code to be stored in Arctic vault](https://www.newscientist.com/article/2238586-worlds-most-essential-open-source-code-to-be-stored-in-arctic-vault/#ixzz6IM38PUxF)
