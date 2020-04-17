@@ -10,6 +10,8 @@ Hi, I am [@ashtom](https://github.com/ashtom). I work at GitHub as Vice Presiden
 * [Welcoming Semmle to GitHub](https://github.blog/2019-09-18-github-welcomes-semmle/)
 * [GitHub acquires Pull Panda](https://github.blog/2019-06-17-github-acquires-pull-panda/)
 * [Dependabot is joining GitHub](https://dependabot.com/blog/hello-github/)
+* [Introducing GitHub Package Registry](https://github.blog/2019-05-10-introducing-github-package-registry/)
+* [New year, new GitHub](https://github.blog/2019-01-07-new-year-new-github/)
 * [Microsoft closes its $7.5B purchase of code-sharing platform GitHub](https://techcrunch.com/2018/10/26/microsoft-closes-its-7-5b-purchase-of-code-sharing-platform-github/)
 
 ## Recent Blog Post
