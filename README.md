@@ -1,5 +1,6 @@
 # About Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/ashtom)
 [![Twitter](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](https://twitter.com/ashtom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8.svg)](https://www.linkedin.com/in/thomas-dohmke-24855b10/)
 
