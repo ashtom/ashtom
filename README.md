@@ -29,5 +29,5 @@ Hi, I am [@ashtom](https://github.com/ashtom). I work at GitHub as Vice Presiden
 
 ***
 
-This file was composed with [Visual Studio Code](https://github.com/microsoft/vscode) and [GitDov](http://aka.ms/gitdoc).
+This file was composed with [Visual Studio Code](https://github.com/microsoft/vscode) and [GitDoc](http://aka.ms/gitdoc).
 
