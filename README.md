@@ -1,4 +1,5 @@
 [![Twitter](https://img.shields.io/badge/twitter-%40ashtom-58a1f2.svg)](https://twitter.com/ashtom)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%40Profile-0e76a8.svg)](https://www.linkedin.com/in/thomas-dohmke-24855b10/)
 
 # About Me
 
