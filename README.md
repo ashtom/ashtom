@@ -27,7 +27,7 @@ Hi, I am [@ashtom](https://github.com/ashtom). I work at GitHub as Vice Presiden
 * [Microsoft storing world’s open source GitHub code in Norwegian archive vault for the next millennium](https://www.news.com.au/technology/science/archaeology/microsoft-storing-worlds-open-source-github-code-in-norwegian-archive-vault-for-the-next-millennium/news-story/14eaaf98ac382ca491468e715327c1c3)
 * [World’s most essential open-source code to be stored in Arctic vault](https://www.newscientist.com/article/2238586-worlds-most-essential-open-source-code-to-be-stored-in-arctic-vault/#ixzz6IM38PUxF) (behind paywall)
 
-***
+---
 
 This file was composed with [Visual Studio Code](https://github.com/microsoft/vscode) and [GitDoc](http://aka.ms/gitdoc).
 
