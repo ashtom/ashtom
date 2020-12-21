@@ -8,6 +8,7 @@ Hi, I am [@ashtom](https://github.com/ashtom). I work at GitHub as Vice Presiden
 
 ## Recent Projects
 
+* [GitHub Archive Program: Making the archives beautiful](https://github.blog/2020-11-19-github-archive-program-making-the-archives-beautiful/)
 * [GitHub Archive Program: the journey of the world’s open source code to the Arctic](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)
 * [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
 * [npm is joining GitHub](https://github.blog/2020-03-16-npm-is-joining-github/)
