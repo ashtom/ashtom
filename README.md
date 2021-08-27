@@ -20,10 +20,6 @@ Hi, I am [@ashtom](https://github.com/ashtom). I work at GitHub as Vice Presiden
 * [New year, new GitHub](https://github.blog/2019-01-07-new-year-new-github/)
 * [Microsoft closes its $7.5B purchase of code-sharing platform GitHub](https://techcrunch.com/2018/10/26/microsoft-closes-its-7-5b-purchase-of-code-sharing-platform-github/)
 
-## Recent Blog Posts
-
-* [Accessibility Insights for Android is here](https://cloudblogs.microsoft.com/opensource/2020/03/10/accessibility-insights-android-now-available/)
-
 ## In the News
 
 * [Deep-freeze data that will last 1,000 years](https://www.itpro.co.uk/infrastructure/server-storage/358137/deep-freeze-data-that-will-last-1000-years)
