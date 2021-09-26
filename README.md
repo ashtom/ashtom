@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](https://twitter.com/ashtom)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/thomas-dohmke-24855b10/)
 
-Hi, I am [@ashtom](https://github.com/ashtom). 👋 I work at GitHub as Chief Product Officer. I occassionally post on [Twitter](http://twitter.com/ashtom), have a [LinkedIn profile](https://www.linkedin.com/in/thomas-dohmke-24855b10/), and you may know me as the co-founder of [HockeyApp](https://techcrunch.com/2014/12/11/microsoft-buys-hockeyapp-to-add-developer-tools-to-its-mobile-effort/).
+Hi, I am [@ashtom](https://github.com/ashtom). 👋 I work at GitHub as Chief Product Officer. I grew up in 🇩🇪, live in the Pacific Northwest of the 🇺🇸, and you may know me as the co-founder of [HockeyApp](https://techcrunch.com/2014/12/11/microsoft-buys-hockeyapp-to-add-developer-tools-to-its-mobile-effort/). The below list are things I directly worked on in the past years, but the GitHub product team is [shipping way more things](https://github.blog/changelog/).
 
 ## Recent Projects
 
@@ -32,5 +32,5 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I work at GitHub as Chief Pr
 
 ---
 
-This file was composed with [Visual Studio Code](https://github.com/microsoft/vscode) and [GitDoc](http://aka.ms/gitdoc).
+This file was originally composed with [Visual Studio Code](https://github.com/microsoft/vscode) and [GitDoc](http://aka.ms/gitdoc).
 
