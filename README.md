@@ -22,6 +22,8 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I work at GitHub as Chief Pr
 
 ## In the News
 
+* [GitHub Focuses on Security, Cloud, DevEx at Universe Event](https://thenewstack.io/github-focuses-on-security-cloud-devex-at-universe-event/)
+* [GitHub announces GitHub Codespaces CLI integration and SSH, GitHub Issues, and more](https://itwire.com/open-source/github-announces-codespaces-cli-integration,-github-issues,-codespaces-ssh-and-more.html)
 * [Deep-freeze data that will last 1,000 years](https://www.itpro.co.uk/infrastructure/server-storage/358137/deep-freeze-data-that-will-last-1000-years)
 * [Microsoft sperrt MS-DOS in den Bunker](https://www.spiegel.de/netzwelt/apps/github-archiv-im-eis-microsoft-sperrt-ms-dos-und-wordpress-in-den-bunker-a-389fc733-bdb7-4add-86f1-319fadf1da0d) (in German)
 * [Warum im ewigen Eis Open-Source-Codes für die Welt von überüberübermorgen lagern](https://www.business-punk.com/2020/07/warum-im-ewigen-eis-open-source-codes-fuer-die-welt-von-ueberueberuebermorgen-lagern/) (in German)
