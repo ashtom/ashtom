@@ -24,6 +24,9 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I am the [incoming CEO](http
 
 ### 2021
 
+* [GitHub gets a new CEO](https://techcrunch.com/2021/11/03/github-gets-a-new-ceo/)
+* [Microsoft’s GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
+* [Begonnen auf einem Robotron KC 87](https://www.faz.net/aktuell/wirtschaft/digitec/github-thomas-dohmke-wird-neuer-chef-der-open-source-software-17618652.html) (in German)
 * [GitHub Focuses on Security, Cloud, DevEx at Universe Event](https://thenewstack.io/github-focuses-on-security-cloud-devex-at-universe-event/)
 * [GitHub announces GitHub Codespaces CLI integration and SSH, GitHub Issues, and more](https://itwire.com/open-source/github-announces-codespaces-cli-integration,-github-issues,-codespaces-ssh-and-more.html)
 
