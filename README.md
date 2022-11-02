@@ -14,6 +14,10 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I am the [CEO](https://githu
 
 ### 2022
 
+* [Four years after being acquired by Microsoft, GitHub keeps doing its thing](https://techcrunch.com/2022/10/26/four-years-after-being-acquired-by-microsoft-github-keeps-doing-its-thing/)
+* [L'intelligence artificielle va faire gagner un temps fou aux codeurs](https://lexpansion.lexpress.fr/high-tech/thomas-dohmke-github-l-intelligence-artificielle-va-faire-gagner-un-temps-fou-aux-codeurs_2181911.html) (in French)
+* [Microsoft’s GitHub Copilot AI is making rapid progress. Here’s how its human leader thinks about it](https://www.cnbc.com/2022/10/14/microsoft-ai-leaps-ahead-heres-what-its-human-leader-thinks-about-it.html)
+* [GitHub CEO's advice to founders: Big Tech isn’t smarter than you](https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/10/04/startup-world-cup-2022-github-microsoft.html)
 * [AI-Powered Coding Assistant Aims to Help, Not Replace Developers](https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433)
 * [GitHub's New CEO Says He's 'All About Developer Happiness'](https://www.businessinsider.com/github-microsoft-new-ceo-thomas-dohmke-developer-happiness-2022-5)
 * [KI ist der nächste Schritt für die Softwareentwicklung](https://background.tagesspiegel.de/digitalisierung/ki-ist-der-naechste-schritt-fuer-die-softwareentwicklung) (in German)
