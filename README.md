@@ -9,6 +9,7 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I am the [CEO](https://githu
 ## Public Speaking
 
 * [With AI, anyone can be a coder now](https://www.ted.com/talks/thomas_dohmke_with_ai_anyone_can_be_a_coder_now?delay=1m&subtitle=en) @ TED 2024, Vancouver, Canada
+* [Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE&t=57s&pp=ygUVdW5pdmVyc2UgMjAyMyBrZXlub3Rl) @ GitHub Universe 2023, San Francisco, USA
 * [One, Integrated Platform. One Purpose.](https://www.linkedin.com/pulse/one-integrated-platform-purpose-thomas-dohmke/?trackingId=uOXYXRo%2FQNuvrCwxsf2oaw%3D%3D) @ GitHub Universe 2022, San Francisco, USA
 * [Technology for the sake of happiness](https://www.linkedin.com/pulse/technology-sake-happiness-thomas-dohmke/?trackingId=UxFWSvRylaPElw%2FexacxhQ%3D%3D) @ We Are Developers 2022, Berlin, Germany
 
