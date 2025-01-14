@@ -16,5 +16,5 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I am the [CEO](https://githu
 
 ## Articles & Thoughts
 
-* [Developer Odyssey](https://ashtom.github.io/developer-odyssey)
+* [Developer Odyssey](https://ashtom.github.io/developer-odyssey), January 12, 2025
 
