@@ -16,5 +16,6 @@ Hi, I am [@ashtom](https://github.com/ashtom). 👋 I am the [CEO](https://githu
 
 ## Articles & Thoughts
 
+* [Scenes from an Agentic Life](https://ashtom.github.io/agentic-life), February 7, 2025
 * [Developer Odyssey](https://ashtom.github.io/developer-odyssey), January 12, 2025
 
