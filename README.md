@@ -19,6 +19,7 @@ At GitHub, we’re always open to hearing your feedback so drop us a note (or yo
 
 ## Articles & Thoughts
 
+* [AI Peer Programmer](https://ashtom.github.io/ai-peer-programmer), February 16, 2025
 * [Scenes from an Agentic Life](https://ashtom.github.io/agentic-life), February 7, 2025
 * [Developer Odyssey](https://ashtom.github.io/developer-odyssey), January 12, 2025
 
