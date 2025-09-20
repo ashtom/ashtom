@@ -17,6 +17,9 @@ Hi, I am [@ashtom](https://github.com/ashtom) and I am a developer. 👋 I recen
 
 ## Articles & Thoughts
 
+* [Developers, Reinvented](https://ashtom.github.io/developers-reinvented), August 3, 2025
+* [What makes autonomy work?](https://ashtom.github.io/agent-autonomy), May 6, 2025
+* [The Dawn of Showercoding](https://ashtom.github.io/showercoding), March 13, 2025
 * [AI Peer Programmer](https://ashtom.github.io/ai-peer-programmer), February 16, 2025
 * [Scenes from an Agentic Life](https://ashtom.github.io/agentic-life), February 7, 2025
 * [Developer Odyssey](https://ashtom.github.io/developer-odyssey), January 12, 2025
