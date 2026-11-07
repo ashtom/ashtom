@@ -45,5 +45,3 @@ What makes autonomy work? (1), economic impact article (1). No matching
 submission was found for the other collected articles; that is not evidence
 of zero readership. Scores obtained from https://hn.algolia.com/api/v1/search.
 -->
-
-[Back to README](README.md#articles--thoughts)

@@ -48,5 +48,3 @@ Agents for the Sake of Happiness (48d9GyzkY4Q), 1,175 views.
 TED counts were read from public talk pages; YouTube metadata was read
 with yt-dlp. Prepared-remarks readership was not publicly available.
 -->
-
-[Back to README](README.md#public-speaking)
