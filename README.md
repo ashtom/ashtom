@@ -8,19 +8,20 @@ Hi, I am [@ashtom](https://github.com/ashtom) and I am a developer. 👋 Togethe
 
 ## Public Speaking
 
-* [Phase 2 of AI Code Generation](https://www.youtube.com/watch?v=dSf8QOjazrQ) @ GitHub Universe 2024, San Francisco, USA
-* [With AI, anyone can be a coder now](https://www.ted.com/talks/thomas_dohmke_with_ai_anyone_can_be_a_coder_now?delay=1m&subtitle=en) @ TED 2024, Vancouver, Canada
+* [The Agentic Assembly Line](https://www.linkedin.com/pulse/agentic-assembly-line-my-keynote-wearedevelopers-world-thomas-dohmke-evaue) @ WeAreDevelopers World Congress 2026, Berlin, Germany
+* [With AI, anyone can be a coder now](https://www.ted.com/talks/thomas_dohmke_with_ai_anyone_can_be_a_coder_now) @ TED 2024, Vancouver, Canada
+* [Can Europe win the age of AI?](https://www.ted.com/talks/thomas_dohmke_can_europe_win_the_age_of_ai) @ TEDAI Vienna 2024, Vienna, Austria
 * [Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE) @ GitHub Universe 2023, San Francisco, USA
-* [Building an app in 18 minutes with GitHub Copilot X](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/) @ Web Summit Rio 2023, Rio de Janeiro, Brazil
-* [One, Integrated Platform. One Purpose.](https://www.linkedin.com/pulse/one-integrated-platform-purpose-thomas-dohmke/?trackingId=uOXYXRo%2FQNuvrCwxsf2oaw%3D%3D) @ GitHub Universe 2022, San Francisco, USA
-* [Technology for the sake of happiness](https://www.linkedin.com/pulse/technology-sake-happiness-thomas-dohmke/?trackingId=UxFWSvRylaPElw%2FexacxhQ%3D%3D) @ We Are Developers 2022, Berlin, Germany
+* [Phase 2 of AI Code Generation](https://www.youtube.com/watch?v=dSf8QOjazrQ) @ GitHub Universe 2024, San Francisco, USA
+
+[All keynotes, recordings & transcripts →](keynotes.md)
 
 ## Articles & Thoughts
 
-* [Developers, Reinvented](https://ashtom.github.io/developers-reinvented), August 3, 2025
-* [What makes autonomy work?](https://ashtom.github.io/agent-autonomy), May 6, 2025
-* [The Dawn of Showercoding](https://ashtom.github.io/showercoding), March 13, 2025
-* [AI Peer Programmer](https://ashtom.github.io/ai-peer-programmer), February 16, 2025
-* [Scenes from an Agentic Life](https://ashtom.github.io/agentic-life), February 7, 2025
-* [Developer Odyssey](https://ashtom.github.io/developer-odyssey), January 12, 2025
+* [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration), October 26, 2026
+* [Hello Entire World](https://entire.com/blog/hello-entire-world), February 10, 2026
+* [Auf Wiedersehen, GitHub ♥️](https://github.blog/news-insights/company-news/goodbye-github/), August 11, 2025
+* [How Version Control Will Evolve for the Agent Boom](https://entire.com/blog/how-version-control-will-evolve-for-the-agent-boom), July 6, 2026
+* [An Entirely New Git Hosting Network](https://entire.com/blog/an-entirely-new-git-hosting-network), July 8, 2026
 
+[All articles & thoughts →](articles.md)
