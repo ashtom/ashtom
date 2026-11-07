@@ -4,11 +4,11 @@ Public recordings, transcripts, and prepared remarks, newest first. Dates on wri
 
 ## 2026
 
-* [The Agentic Assembly Line: My Keynote at WeAreDevelopers World Congress 2026 in Berlin](https://www.linkedin.com/pulse/agentic-assembly-line-my-keynote-wearedevelopers-world-thomas-dohmke-evaue) — WeAreDevelopers World Congress, Berlin, Germany. Remarks published July 20, 2026.
+* [The Agentic Assembly Line: My Keynote at WeAreDevelopers World Congress 2026 in Berlin](https://www.linkedin.com/pulse/agentic-assembly-line-my-keynote-wearedevelopers-world-thomas-dohmke-evaue) ([archive.li](https://archive.li/qJSk3)) — WeAreDevelopers World Congress, Berlin, Germany. Remarks published July 20, 2026.
 
 ## 2025
 
-* [Agents for the Sake of Happiness](https://www.linkedin.com/pulse/agents-sake-happiness-thomas-dohmke-6jixe) ([Wayback](https://web.archive.org/web/20260226092450/https://www.linkedin.com/pulse/agents-sake-happiness-thomas-dohmke-6jixe)) — WeAreDevelopers World Congress, Berlin, Germany. Remarks published July 11, 2025. [Recording](https://www.wearedevelopers.com/videos/1387-agents-for-the-sake-of-happiness).
+* [Agents for the Sake of Happiness](https://www.linkedin.com/pulse/agents-sake-happiness-thomas-dohmke-6jixe) ([Wayback](https://web.archive.org/web/20260226092450/https://www.linkedin.com/pulse/agents-sake-happiness-thomas-dohmke-6jixe)) — WeAreDevelopers World Congress, Berlin, Germany. Remarks published July 11, 2025. [Recording](https://www.wearedevelopers.com/videos/1387-agents-for-the-sake-of-happiness) ([archive.li](https://archive.li/EHA4V) · [Wayback](https://web.archive.org/web/20261107172626/https://www.wearedevelopers.com/videos/1387-agents-for-the-sake-of-happiness)).
 
 ## 2024
 
