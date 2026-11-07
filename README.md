@@ -14,9 +14,7 @@ Hi, I am [@ashtom](https://github.com/ashtom) and I am a developer. 👋 Togethe
 * [Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE) — *GitHub Universe · 2023*
 * [Phase 2 of AI Code Generation](https://www.youtube.com/watch?v=dSf8QOjazrQ) — *GitHub Universe · 2024*
 
-13 talks total. Last updated: November 7, 2026.
-
-[All talks →](keynotes.md)
+13 talks total. Last updated: November 7, 2026. [All talks →](keynotes.md)
 
 ## Articles & Thoughts
 
@@ -26,6 +24,4 @@ Hi, I am [@ashtom](https://github.com/ashtom) and I am a developer. 👋 Togethe
 * [How Version Control Will Evolve for the Agent Boom](https://entire.com/blog/how-version-control-will-evolve-for-the-agent-boom) — *Jul 6, 2026*
 * [An Entirely New Git Hosting Network](https://entire.com/blog/an-entirely-new-git-hosting-network) — *Jul 8, 2026*
 
-14 articles total. Last updated: November 7, 2026.
-
-[All articles →](articles.md)
+14 articles total. Last updated: November 7, 2026. [All articles →](articles.md)
