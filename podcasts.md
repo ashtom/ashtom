@@ -1,6 +1,6 @@
 # Podcasts
 
-Podcast appearances and recorded conversations collected for this profile, newest first. Dates refer to publication; recordings may have appeared earlier. Links go directly to episodes on Apple Podcasts, Spotify, and YouTube where confirmed.
+Podcast appearances and recorded conversations, newest first. Dates refer to publication; recordings may have appeared earlier. Links go directly to episodes on Apple Podcasts, Spotify, and YouTube where confirmed.
 
 ## 2026
 
