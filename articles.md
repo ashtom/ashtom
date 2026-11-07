@@ -12,15 +12,15 @@ Articles, essays, and research collected for this profile, newest first.
 ## 2025
 
 * [Auf Wiedersehen, GitHub ♥️](https://github.blog/news-insights/company-news/goodbye-github/) — GitHub Blog, August 11, 2025.
-* [Developers, Reinvented](https://ashtom.github.io/developers-reinvented) — August 3, 2025.
+* [Developers, Reinvented](https://ashtom.github.io/developers-reinvented) — Personal Blog, August 3, 2025.
 * [GitHub Copilot: Meet the new coding agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/) — GitHub Blog, May 19, 2025.
-* [What makes autonomy work?](https://ashtom.github.io/agent-autonomy) — May 6, 2025.
+* [What makes autonomy work?](https://ashtom.github.io/agent-autonomy) — Personal Blog, May 6, 2025.
 * [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/) — GitHub Blog, April 4, 2025.
-* [The Dawn of Showercoding](https://ashtom.github.io/showercoding) — March 13, 2025.
-* [AI Peer Programmer](https://ashtom.github.io/ai-peer-programmer) — February 16, 2025.
-* [Scenes from an Agentic Life](https://ashtom.github.io/agentic-life) — February 7, 2025.
+* [The Dawn of Showercoding](https://ashtom.github.io/showercoding) — Personal Blog, March 13, 2025.
+* [AI Peer Programmer](https://ashtom.github.io/ai-peer-programmer) — Personal Blog, February 16, 2025.
+* [Scenes from an Agentic Life](https://ashtom.github.io/agentic-life) — Personal Blog, February 7, 2025.
 * [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) — GitHub Blog, February 6, 2025.
-* [Developer Odyssey](https://ashtom.github.io/developer-odyssey) — January 12, 2025.
+* [Developer Odyssey](https://ashtom.github.io/developer-odyssey) — Personal Blog, January 12, 2025.
 
 ## 2024
 
